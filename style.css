@@ -23,4 +23,18 @@
     box-shadow:5px 5px 5px grey;
     font-size: 20px;
   }
+  canvas
+  {
+    border:5px solid black;
+    border-radius: 2px;
+    box-shadow:5px 5px 5px gray ;
+    margin-top: 160px;
+  }
+  .result_para_tag span { 
+    white-space: pre-line;
+  }
+   .copy_right_footer { position: fixed; color: white;
+     bottom: 0; width: 100%; background-color:grey; line-height: 3; 
+    text-align: center; 
+  }
  
